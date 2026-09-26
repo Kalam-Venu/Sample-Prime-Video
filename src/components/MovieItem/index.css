@@ -1,0 +1,20 @@
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 20px;
+}
+.close-btn {
+  border: none !important;
+  background-color: transparent !important;
+  outline: none;
+  align-self: flex-end;
+}
+
+.close-icon {
+  font-size: 30px;
+  color: #000000;
+}
+.vedio{
+  margin: auto;
+}
